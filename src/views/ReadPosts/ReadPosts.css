@@ -1,0 +1,21 @@
+.container-readpost{
+    text-align: center;
+    margin: 20px;
+}
+.device-img {
+    margin: 10px;
+    width: 100%;
+    height: 80vh;
+} 
+.readpost-text {
+    text-align: left;
+    font-size: 17px;
+    margin-top:10px ;
+}
+.subTitle {
+    color: rgb(20, 20, 154);
+    font-size: 45px;
+}
+.title {
+    font-size: 50px;
+}

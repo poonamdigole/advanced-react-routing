@@ -1,0 +1,10 @@
+.post-card {
+    border: 1px solid gray;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px auto;
+    width: 70%;
+    cursor: pointer;
+    box-shadow: 2px 2px 6px 2px rgb(109, 108, 108);
+    background-color: rgb(228, 245, 238);
+}
